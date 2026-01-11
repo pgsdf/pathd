@@ -1,0 +1,13 @@
+# Zig
+zig-cache/
+zig-out/
+.zig-cache/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
